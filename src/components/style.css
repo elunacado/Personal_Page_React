@@ -6,6 +6,14 @@ body{
     filter: blur(0px);
     background-image: url("https://www.creativefabrica.com/wp-content/uploads/2021/01/28/Colorful-Watercolor-Background-Graphics-8158369-1.jpg");
 }
+.cardFather{
+    margin-top: 6rem;
+    margin-left: 2rem;
+    width: 28rem;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
 #header{
     font-weight: bolder;
     
