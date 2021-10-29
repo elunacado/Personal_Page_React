@@ -1,0 +1,21 @@
+
+html{
+    filter: blur(0px);
+}
+body{
+    filter: blur(0px);
+    background-image: url("https://www.creativefabrica.com/wp-content/uploads/2021/01/28/Colorful-Watercolor-Background-Graphics-8158369-1.jpg");
+}
+#header{
+    font-weight: bolder;
+    
+}
+#txt{
+    height: 100px;
+    width: 600px;
+    font-size: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    text-align: center
+}
