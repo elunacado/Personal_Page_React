@@ -9,7 +9,7 @@ import React from "react";
 
     if (h <= 12) {
         document.body.style.backgroundImage = "url('https://www.wallpapertip.com/wmimgs/91-915278_pink-watercolour-watercolor-desktop-computer-background.jpg')"
-    } else if (h => 12){
+    } else if (h > 12){
         document.body.style.backgroundImage = "url('https://www.wallpapertip.com/wmimgs/28-281867_preview-wallpaper-watercolor-spots-bright-pink-watercolor-background.jpg')"
     };
 export class Hour extends React.Component{
