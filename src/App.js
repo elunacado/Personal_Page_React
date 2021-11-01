@@ -2,8 +2,7 @@ import React from 'react';
 import Navbar from './components/Navbar';
 import Text from './components/Text'
 import Card from './components/card'
-import images from './assets/images';
-import Hour, { hour } from './components/hour'
+import Hour from './components/hour'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.min.js';
 import './components/style.css'
@@ -18,6 +17,7 @@ function App() {
       <Hour />
       <Text />
       <Card/>
+    
 
       
     </div>  
